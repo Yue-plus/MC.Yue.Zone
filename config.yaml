@@ -1,0 +1,16 @@
+baseURL: //MC.Yue.Zone/
+languageCode: zh-CN
+title: MC.Yue.Zone
+theme: PaperMod
+
+params:
+  DateFormat: '2006-01-02 15:04'
+
+  homeInfoParams:
+    Title: >
+      欢迎来到 [Yue_plus](https://github.com/Yue-plus) 的 Minecraft 世界！
+    Content: //TODO 服务器简介
+
+  socialIcons:
+    - name: GitHub
+      url: https://github.com/Yue-plus/MC.Yue.Zone
